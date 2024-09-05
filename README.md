@@ -8,3 +8,6 @@
 
 
 # Audio–visual
+
+* [2022] Audio–visual collaborative representation learning for Dynamic Saliency Prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0950705122008486?via%3Dihub)
+

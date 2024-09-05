@@ -4,4 +4,4 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-* Video Saliency Prediction Using Enhanced Spatiotemporal Alignment Network, [paper](https://arxiv.org/pdf/2001.00292), [github](https://github.com/cj4L/ESAN-VSP)
+* [2020] Video Saliency Prediction Using Enhanced Spatiotemporal Alignment Network, [paper](https://arxiv.org/pdf/2001.00292), [github](https://github.com/cj4L/ESAN-VSP)

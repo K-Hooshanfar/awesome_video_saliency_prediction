@@ -8,6 +8,6 @@
 
 
 # Audio–visual
-* [2022] STAViS: Spatio-Temporal AudioVisual Saliency Network, [paper](https://arxiv.org/abs/2001.03063), [github](https://github.com/atsiami/STAViS)
+* [2020] STAViS: Spatio-Temporal AudioVisual Saliency Network, [paper](https://arxiv.org/abs/2001.03063), [github](https://github.com/atsiami/STAViS)
 * [2022] Audio–visual collaborative representation learning for Dynamic Saliency Prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0950705122008486?via%3Dihub)
 

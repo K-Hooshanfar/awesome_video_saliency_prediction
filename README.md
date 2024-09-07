@@ -8,8 +8,10 @@
 
 
 # Audio–visual
+
+* [2019] DAVE: A Deep Audio-Visual Embedding for Dynamic Saliency Prediction, [paper](https://arxiv.org/abs/1905.10693), [github](https://github.com/hrtavakoli/DAVE)
 * [2020] STAViS: Spatio-Temporal AudioVisual Saliency Network, [paper](https://arxiv.org/abs/2001.03063), [github](https://github.com/atsiami/STAViS)
-* [2021] Joint learning of visual-audio saliency prediction and sound source localization on multi-face videos, [paper](https://arxiv.org/pdf/2111.08567),
+* [2021] Joint learning of visual-audio saliency prediction and sound source localization on multi-face videos, [paper](https://arxiv.org/pdf/2111.08567)
 * [2022] Audio–visual collaborative representation learning for Dynamic Saliency Prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0950705122008486?via%3Dihub)
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)
   

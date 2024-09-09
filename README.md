@@ -20,5 +20,5 @@
 
 # Datasets
 
-* [2020] MVVA Dataset: Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model , [paper1](https://arxiv.org/abs/2103.15438), [github1](https://github.com/MinglangQiao/MVVA-Database), [github2](https://github.com/MinglangQiao/visual_audio_saliency)
-
+* [2020] MVVA Dataset: Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model , [paper](https://arxiv.org/abs/2103.15438), [github1](https://github.com/MinglangQiao/MVVA-Database), [github2](https://github.com/MinglangQiao/visual_audio_saliency)
+* [2024] Saliency Prediction on Mobile Videos: A Fixation Mapping-Based Dataset and A Transformer Approach , [paper](https://ieeexplore.ieee.org/abstract/document/10360106), [github](https://github.com/wenshijie110/MVFormer)

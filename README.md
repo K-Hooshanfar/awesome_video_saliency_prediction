@@ -8,6 +8,7 @@
 * [2021] SalED: Saliency prediction with a pithy encoder-decoder architecture sensing local and global information, [paper](https://www.sciencedirect.com/science/article/pii/S0262885621000548?via%3Dihub), [github](https://github.com/WZq975/SalED)
 * [2021] STA3D: Spatiotemporally attentive 3D network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0167865521001409?via%3Dihub)
 * [2022] ECANet: Explicit cyclic attention-based network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0925231221015022?via%3Dihub)
+* [2023] Accurate video saliency prediction via hierarchical fusion and temporal recurrence, [paper](https://www.sciencedirect.com/science/article/pii/S026288562300118X)
 
 # Audio–visual
 

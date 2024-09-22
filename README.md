@@ -19,7 +19,7 @@
 * [2023] CASP-Net: Rethinking Video Saliency Prediction from an Audio-VisualConsistency Perceptual Perspective, [paper](https://arxiv.org/abs/2303.06357)
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)
 * [2024] From Discrete Representation to Continuous Modeling: A Novel Audio-Visual Saliency Prediction Model With Implicit Neural Representations, [paper](https://ieeexplore.ieee.org/document/10502245)
-
+* [2024] DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction, [paper](https://arxiv.org/abs/2403.01226), [github](https://github.com/junwenxiong/diff_sal)
 # Datasets
 
 * [2020] MVVA Dataset: Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model , [paper](https://arxiv.org/abs/2103.15438), [github1](https://github.com/MinglangQiao/MVVA-Database), [github2](https://github.com/MinglangQiao/visual_audio_saliency)

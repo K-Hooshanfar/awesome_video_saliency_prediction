@@ -43,6 +43,7 @@
 * [2024] Saliency Prediction on Mobile Videos: A Fixation Mapping-Based Dataset and A Transformer Approach, [paper](https://ieeexplore.ieee.org/abstract/document/10360106), [github](https://github.com/wenshijie110/MVFormer)
 * [2024] Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks, [paper](https://www.sciencedirect.com/science/article/pii/S1047320324000506)
 * [2024] Video saliency prediction for First-Person View UAV videos: Dataset and benchmark, [paper](https://www.sciencedirect.com/science/article/pii/S0925231224006477?ref=pdf_download&fr=RR-2&rr=8c7102c00ad21cc1)
+* [2024] Saliency Prediction of Sports Videos: A Large-Scale Database and a Self-Adaptive Approach, [paper](https://ieeexplore.ieee.org/abstract/document/10446481)
 
 
 

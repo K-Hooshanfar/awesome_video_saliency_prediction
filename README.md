@@ -15,6 +15,8 @@
 * [2022] An efficient saliency prediction model for Unmanned Aerial Vehicle video, [paper](https://www.sciencedirect.com/science/article/pii/S0924271622002763?ref=pdf_download&fr=RR-2&rr=8c71154b98711cc1#fig2)
 * [2023] Accurate video saliency prediction via hierarchical fusion and temporal recurrence, [paper](https://www.sciencedirect.com/science/article/pii/S026288562300118X)
 * [2023] Visual saliency assistance mechanism based on visually impaired navigation systems, [paper](https://www.sciencedirect.com/science/article/pii/S0141938223001154?ref=pdf_download&fr=RR-2&rr=8c710e95197d1cc1)
+* [2024] Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [paper](https://arxiv.org/pdf/2401.07942)
+* [2024] SalFoM: Dynamic Saliency Prediction with Video Foundation Models, [paper](https://arxiv.org/pdf/2404.03097)
 
 # Audio–visual
 

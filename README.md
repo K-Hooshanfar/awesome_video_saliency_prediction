@@ -11,6 +11,7 @@
 * [2019] Simple vs complex temporal recurrences for video saliency prediction, [paper](https://arxiv.org/pdf/1907.01869v4), [github](https://github.com/Linardos/SalEMA)
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
 * [2020] A Spatial-Temporal Recurrent Neural Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/9263359), [github](https://github.com/zhangkao/IIP_STRNN_Saliency)
+* [2020] 3DSal: An Efficient 3D-CNN Architecture for Video Saliency Prediction, [paper](https://www.researchgate.net/publication/340024237_3DSAL_An_Efficient_3D-CNN_Architecture_for_Video_Saliency_Prediction), [github](https://github.com/YasserDA/Saliency-3DSal)
 * [2020] DeepCT: A novel deep complex-valued network with learnable transform for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0031320320300406?ref=pdf_download&fr=RR-2&rr=8c70c90d0dbbd25c)
 * [2021] Video saliency prediction via spatio-temporal reasoning, [paper](https://www.sciencedirect.com/science/article/pii/S092523122101170X?ref=pdf_download&fr=RR-2&rr=8c70d7f5db70d25c)
 * [2021] GASP: Gated Attention For Saliency Prediction, [paper](https://arxiv.org/pdf/2206.04590v1), [github](https://github.com/knowledgetechnologyuhh/gasp)

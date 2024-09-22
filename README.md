@@ -36,6 +36,7 @@
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)
 * [2024] From Discrete Representation to Continuous Modeling: A Novel Audio-Visual Saliency Prediction Model With Implicit Neural Representations, [paper](https://ieeexplore.ieee.org/document/10502245)
 * [2024] DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction, [paper](https://arxiv.org/abs/2403.01226), [github](https://github.com/junwenxiong/diff_sal)
+* [2024] OFF-ViNet: Optical Flow-Based Feature Warping ViNet for Video Saliency Prediction Considering Future Prediction, [paper](https://ieeexplore.ieee.org/document/10508805?denied=)
   
 # Datasets
 

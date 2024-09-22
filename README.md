@@ -34,6 +34,7 @@
 * [2021] Joint learning of visual-audio saliency prediction and sound source localization on multi-face videos, [paper](https://arxiv.org/pdf/2111.08567)
 * [2021] ViNet: Pushing the limits of Visual Modality for Audio-Visual Saliency Prediction, [paper](https://arxiv.org/pdf/2012.06170v3), [github](https://github.com/samyak0210/ViNet)
 * [2021] A Novel Lightweight Audio-visual Saliency Model for Videos, [paper](https://ieeexplore.ieee.org/document/9428415)
+* [2022] Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction, [paper](https://arxiv.org/pdf/2208.05220v2)
 * [2022] Audio–visual collaborative representation learning for Dynamic Saliency Prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0950705122008486?via%3Dihub)
 * [2023] CASP-Net: Rethinking Video Saliency Prediction from an Audio-VisualConsistency Perceptual Perspective, [paper](https://arxiv.org/abs/2303.06357)
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)

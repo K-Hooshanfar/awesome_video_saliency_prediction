@@ -10,6 +10,7 @@
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
 * [2020] DeepCT: A novel deep complex-valued network with learnable transform for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0031320320300406?ref=pdf_download&fr=RR-2&rr=8c70c90d0dbbd25c)
 * [2021] Video saliency prediction via spatio-temporal reasoning, [paper](https://www.sciencedirect.com/science/article/pii/S092523122101170X?ref=pdf_download&fr=RR-2&rr=8c70d7f5db70d25c)
+* [2021] GASP: Gated Attention For Saliency Prediction, [paper](https://arxiv.org/pdf/2206.04590v1), [github](https://github.com/knowledgetechnologyuhh/gasp)
 * [2021] Video Saliency Prediction Using Enhanced Spatiotemporal Alignment Network, [paper](https://arxiv.org/pdf/2001.00292), [github](https://github.com/cj4L/ESAN-VSP)
 * [2021] Hierarchical Domain-Adapted Feature Learning for Video Saliency Prediction, [paper](https://arxiv.org/abs/2010.01220), [github](https://github.com/perceivelab/hd2s)
 * [2021] Noise-Aware Video Saliency Prediction, [paper](https://arxiv.org/pdf/2104.08038v2), [github](https://github.com/NVlabs/NAT-saliency)

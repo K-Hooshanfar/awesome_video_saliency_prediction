@@ -5,13 +5,14 @@
 
 # Visual
 * [2017] Spatio-Temporal Saliency Networks for Dynamic Saliency Prediction, [paper](https://arxiv.org/abs/1607.04730), [github](https://github.com/cagdasbak/dynamicsaliency)
-* [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github1](https://github.com/wenguanwang/DHF1K) , [github2](https://github.com/Nablax/ACLnet-Pytorch)
+* [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github1](https://github.com/wenguanwang/DHF1K), [github2](https://github.com/Nablax/ACLnet-Pytorch)
 * [2018] Video Saliency Prediction Based on Spatial-Temporal Two-Stream Network, [paper](https://ieeexplore.ieee.org/document/8543830), [github](https://github.com/zhangkao/IIP_TwoS_Saliency)
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lai_Jiang_DeepVS_A_Deep_ECCV_2018_paper.pdf), [github](https://github.com/remega/OMCNN_2CLSTM)
 * [2018] Temporal Saliency Adaptation in Egocentric Videos, [paper](https://arxiv.org/pdf/1808.09559v2), [github](https://github.com/imatge-upc/saliency-2018-videosalgan)
 * [2019] Temporal Recurrences for Video Saliency Prediction, [paper](https://doras.dcu.ie/23543/1/_BMVC__Simple_vs_complex_temporal_recurrences_for_video_saliency_prediction__Copy_.pdf), [github](https://github.com/juanjo3ns/SalBCE)
 * [2019] Simple vs complex temporal recurrences for video saliency prediction, [paper](https://arxiv.org/pdf/1907.01869v4), [github](https://github.com/Linardos/SalEMA)
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
+* [2020] Unified Image and Video Saliency Modeling, [paper](https://arxiv.org/abs/2003.05477), [github](https://github.com/rdroste/unisal)
 * [2020] A Spatial-Temporal Recurrent Neural Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/9263359), [github](https://github.com/zhangkao/IIP_STRNN_Saliency)
 * [2020] 3DSal: An Efficient 3D-CNN Architecture for Video Saliency Prediction, [paper](https://www.researchgate.net/publication/340024237_3DSAL_An_Efficient_3D-CNN_Architecture_for_Video_Saliency_Prediction), [github](https://github.com/YasserDA/Saliency-3DSal)
 * [2020] DeepCT: A novel deep complex-valued network with learnable transform for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0031320320300406?ref=pdf_download&fr=RR-2&rr=8c70c90d0dbbd25c)

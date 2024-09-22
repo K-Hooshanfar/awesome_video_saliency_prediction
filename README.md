@@ -12,6 +12,7 @@
 * [2021] Video saliency prediction via spatio-temporal reasoning, [paper](https://www.sciencedirect.com/science/article/pii/S092523122101170X?ref=pdf_download&fr=RR-2&rr=8c70d7f5db70d25c)
 * [2021] Video Saliency Prediction Using Enhanced Spatiotemporal Alignment Network, [paper](https://arxiv.org/pdf/2001.00292), [github](https://github.com/cj4L/ESAN-VSP)
 * [2021] Hierarchical Domain-Adapted Feature Learning for Video Saliency Prediction, [paper](https://arxiv.org/abs/2010.01220), [github](https://github.com/perceivelab/hd2s)
+* [2021] Noise-Aware Video Saliency Prediction, [paper](https://arxiv.org/pdf/2104.08038v2), [github](https://github.com/NVlabs/NAT-saliency)
 * [2021] SalED: Saliency prediction with a pithy encoder-decoder architecture sensing local and global information, [paper](https://www.sciencedirect.com/science/article/pii/S0262885621000548?via%3Dihub), [github](https://github.com/WZq975/SalED)
 * [2021] STA3D: Spatiotemporally attentive 3D network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0167865521001409?via%3Dihub)
 * [2021] A Gated Fusion Network for Dynamic Saliency Prediction, [paper](https://arxiv.org/pdf/2102.07682)

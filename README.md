@@ -49,6 +49,7 @@
 * [2020] A Multimodal Saliency Model for Videos With High Audio-Visual Correspondence, [paper](https://ieeexplore.ieee.org/document/8962278)
 * [2021] Joint learning of visual-audio saliency prediction and sound source localization on multi-face videos, [paper](https://arxiv.org/pdf/2111.08567)
 * [2021] ViNet: Pushing the limits of Visual Modality for Audio-Visual Saliency Prediction, [paper](https://arxiv.org/pdf/2012.06170v3), [github](https://github.com/samyak0210/ViNet)
+* [2021] Deep Audio-Visual Fusion Neural Network for Saliency Estimation, [paper](https://ieeexplore.ieee.org/document/9506089)
 * [2021] Temporal-Spatial Feature Pyramid for Video Saliency Detection, [paper](https://arxiv.org/abs/2105.04213)
 * [2021] A Novel Lightweight Audio-visual Saliency Model for Videos, [paper](https://ieeexplore.ieee.org/document/9428415)
 * [2022] Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction, [paper](https://arxiv.org/pdf/2208.05220v2)

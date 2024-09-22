@@ -5,7 +5,7 @@
 
 # Visual
 * [2017] Spatio-Temporal Saliency Networks for Dynamic Saliency Prediction, [paper](https://arxiv.org/abs/1607.04730), [github](https://github.com/cagdasbak/dynamicsaliency)
-* [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github](https://github.com/wenguanwang/DHF1K)
+* [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github1](https://github.com/wenguanwang/DHF1K) , [github2](https://github.com/Nablax/ACLnet-Pytorch)
 * [2018] Video Saliency Prediction Based on Spatial-Temporal Two-Stream Network, [paper](https://ieeexplore.ieee.org/document/8543830), [github](https://github.com/zhangkao/IIP_TwoS_Saliency)
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lai_Jiang_DeepVS_A_Deep_ECCV_2018_paper.pdf), [github](https://github.com/remega/OMCNN_2CLSTM)
 * [2018] Temporal Saliency Adaptation in Egocentric Videos, [paper](https://arxiv.org/pdf/1808.09559v2), [github](https://github.com/imatge-upc/saliency-2018-videosalgan)

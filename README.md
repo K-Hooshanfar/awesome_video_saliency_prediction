@@ -9,6 +9,7 @@
 * [2018] Video Saliency Prediction Based on Spatial-Temporal Two-Stream Network, [paper](https://ieeexplore.ieee.org/document/8543830), [github](https://github.com/zhangkao/IIP_TwoS_Saliency)
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lai_Jiang_DeepVS_A_Deep_ECCV_2018_paper.pdf), [github](https://github.com/remega/OMCNN_2CLSTM)
 * [2018] Temporal Saliency Adaptation in Egocentric Videos, [paper](https://arxiv.org/pdf/1808.09559v2), [github](https://github.com/imatge-upc/saliency-2018-videosalgan)
+* [2019] Temporal Recurrences for Video Saliency Prediction, [paper](https://doras.dcu.ie/23543/1/_BMVC__Simple_vs_complex_temporal_recurrences_for_video_saliency_prediction__Copy_.pdf), [github](https://github.com/juanjo3ns/SalBCE)
 * [2019] Simple vs complex temporal recurrences for video saliency prediction, [paper](https://arxiv.org/pdf/1907.01869v4), [github](https://github.com/Linardos/SalEMA)
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
 * [2020] A Spatial-Temporal Recurrent Neural Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/9263359), [github](https://github.com/zhangkao/IIP_STRNN_Saliency)

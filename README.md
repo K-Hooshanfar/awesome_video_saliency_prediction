@@ -16,6 +16,7 @@
 * [2023] Accurate video saliency prediction via hierarchical fusion and temporal recurrence, [paper](https://www.sciencedirect.com/science/article/pii/S026288562300118X)
 * [2023] Visual saliency assistance mechanism based on visually impaired navigation systems, [paper](https://www.sciencedirect.com/science/article/pii/S0141938223001154?ref=pdf_download&fr=RR-2&rr=8c710e95197d1cc1)
 * [2023] GFNet: gated fusion network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s10489-023-04861-5)
+* [2023] Transformer-Based Multi-Scale Feature Integration Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10130326), [github](https://github.com/wusonghe/TMFI-Net)
 * [2023] Multi-Scale Spatiotemporal Feature Fusion Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10269025)
 * [2024] Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [paper](https://arxiv.org/pdf/2401.07942)
 * [2024] SalFoM: Dynamic Saliency Prediction with Video Foundation Models, [paper](https://arxiv.org/pdf/2404.03097)

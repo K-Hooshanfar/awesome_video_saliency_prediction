@@ -11,6 +11,7 @@
 * [2021] Hierarchical Domain-Adapted Feature Learning for Video Saliency Prediction, [paper](https://arxiv.org/abs/2010.01220)
 * [2021] SalED: Saliency prediction with a pithy encoder-decoder architecture sensing local and global information, [paper](https://www.sciencedirect.com/science/article/pii/S0262885621000548?via%3Dihub), [github](https://github.com/WZq975/SalED)
 * [2021] STA3D: Spatiotemporally attentive 3D network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0167865521001409?via%3Dihub)
+* [2021] A Gated Fusion Network for Dynamic Saliency Prediction, [paper](https://arxiv.org/pdf/2102.07682)
 * [2022] ECANet: Explicit cyclic attention-based network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0925231221015022?via%3Dihub)
 * [2022] An efficient saliency prediction model for Unmanned Aerial Vehicle video, [paper](https://www.sciencedirect.com/science/article/pii/S0924271622002763?ref=pdf_download&fr=RR-2&rr=8c71154b98711cc1#fig2)
 * [2023] Accurate video saliency prediction via hierarchical fusion and temporal recurrence, [paper](https://www.sciencedirect.com/science/article/pii/S026288562300118X)
@@ -21,6 +22,7 @@
 * [2024] Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [paper](https://arxiv.org/pdf/2401.07942)
 * [2024] SalFoM: Dynamic Saliency Prediction with Video Foundation Models, [paper](https://arxiv.org/pdf/2404.03097)
 * [2024] Transformer-based multi-level attention integration network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s11042-024-19404-4)
+* [2024] OFF-ViNet: Optical Flow-Based Feature Warping ViNet for Video Saliency Prediction Considering Future Prediction, [paper](https://ieeexplore.ieee.org/document/10508805?denied=)
 
 # Audio–visual
 
@@ -36,7 +38,6 @@
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)
 * [2024] From Discrete Representation to Continuous Modeling: A Novel Audio-Visual Saliency Prediction Model With Implicit Neural Representations, [paper](https://ieeexplore.ieee.org/document/10502245)
 * [2024] DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction, [paper](https://arxiv.org/abs/2403.01226), [github](https://github.com/junwenxiong/diff_sal)
-* [2024] OFF-ViNet: Optical Flow-Based Feature Warping ViNet for Video Saliency Prediction Considering Future Prediction, [paper](https://ieeexplore.ieee.org/document/10508805?denied=)
   
 # Datasets
 

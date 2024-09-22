@@ -32,6 +32,7 @@
 * [2020] Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model, [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650409.pdf), [github](https://github.com/MinglangQiao/visual_audio_saliency)
 * [2020] A Multimodal Saliency Model for Videos With High Audio-Visual Correspondence, [paper](https://ieeexplore.ieee.org/document/8962278)
 * [2021] Joint learning of visual-audio saliency prediction and sound source localization on multi-face videos, [paper](https://arxiv.org/pdf/2111.08567)
+* [2021] ViNet: Pushing the limits of Visual Modality for Audio-Visual Saliency Prediction, [paper](https://arxiv.org/pdf/2012.06170v3), [github](https://github.com/samyak0210/ViNet)
 * [2021] A Novel Lightweight Audio-visual Saliency Model for Videos, [paper](https://ieeexplore.ieee.org/document/9428415)
 * [2022] Audio–visual collaborative representation learning for Dynamic Saliency Prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0950705122008486?via%3Dihub)
 * [2023] CASP-Net: Rethinking Video Saliency Prediction from an Audio-VisualConsistency Perceptual Perspective, [paper](https://arxiv.org/abs/2303.06357)

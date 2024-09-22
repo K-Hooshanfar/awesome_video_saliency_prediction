@@ -18,7 +18,7 @@
 * [2021] STA3D: Spatiotemporally attentive 3D network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0167865521001409?via%3Dihub)
 * [2021] A Gated Fusion Network for Dynamic Saliency Prediction, [paper](https://arxiv.org/pdf/2102.07682)
 * [2022] ECANet: Explicit cyclic attention-based network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0925231221015022?via%3Dihub)
-* [2022] An efficient saliency prediction model for Unmanned Aerial Vehicle video, [paper](https://www.sciencedirect.com/science/article/pii/S0924271622002763?ref=pdf_download&fr=RR-2&rr=8c71154b98711cc1#fig2)
+* [2022] An efficient saliency prediction model for Unmanned Aerial Vehicle video, [paper](https://www.sciencedirect.com/science/article/pii/S0924271622002763?ref=pdf_download&fr=RR-2&rr=8c71154b98711cc1#fig2), [github](https://github.com/zhangkao/IIP_UAVSal_Saliency)
 * [2023] Accurate video saliency prediction via hierarchical fusion and temporal recurrence, [paper](https://www.sciencedirect.com/science/article/pii/S026288562300118X)
 * [2023] Visual saliency assistance mechanism based on visually impaired navigation systems, [paper](https://www.sciencedirect.com/science/article/pii/S0141938223001154?ref=pdf_download&fr=RR-2&rr=8c710e95197d1cc1)
 * [2023] GFNet: gated fusion network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s10489-023-04861-5)

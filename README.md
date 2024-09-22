@@ -5,6 +5,7 @@
 
 # Visual
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lai_Jiang_DeepVS_A_Deep_ECCV_2018_paper.pdf), [github](https://github.com/remega/OMCNN_2CLSTM)
+* [2018] Temporal Saliency Adaptation in Egocentric Videos, [paper](https://arxiv.org/pdf/1808.09559v2), [github](https://github.com/imatge-upc/saliency-2018-videosalgan)
 * [2019] Simple vs complex temporal recurrences for video saliency prediction, [paper](https://arxiv.org/pdf/1907.01869v4), [github](https://github.com/Linardos/SalEMA)
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
 * [2020] DeepCT: A novel deep complex-valued network with learnable transform for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0031320320300406?ref=pdf_download&fr=RR-2&rr=8c70c90d0dbbd25c)

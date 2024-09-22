@@ -26,6 +26,7 @@
 * [2023] Spatio-Temporal Self-Attention Network for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2108.10696v2), [github](https://github.com/come880412/STSANet)
 * [2023] Multi-Scale Spatiotemporal Feature Fusion Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10269025)
 * [2023] TinyHD: Efficient Video Saliency Prediction with Heterogeneous Decoders using Hierarchical Maps Distillation, [paper](https://arxiv.org/pdf/2301.04619v1), [github](https://github.com/feiyanhu/tinyhd)
+* [2023] UniST: Towards Unifying Saliency Transformer for Video Saliency Prediction and Detection, [paper](https://arxiv.org/pdf/2309.08220v1)
 * [2024] Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [paper](https://arxiv.org/pdf/2401.07942)
 * [2024] SalFoM: Dynamic Saliency Prediction with Video Foundation Models, [paper](https://arxiv.org/pdf/2404.03097)
 * [2024] Transformer-based multi-level attention integration network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s11042-024-19404-4)

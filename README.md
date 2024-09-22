@@ -51,6 +51,7 @@
   
 # Datasets
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](https://arxiv.org/pdf/1709.06316v3), [github](https://github.com/remega/LEDOV-eye-tracking-database)
+* [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github](https://github.com/wenguanwang/DHF1K)
 * [2020] MVVA Dataset: Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model, [paper](https://arxiv.org/abs/2103.15438), [github1](https://github.com/MinglangQiao/MVVA-Database), [github2](https://github.com/MinglangQiao/visual_audio_saliency)
 * [2024] Saliency Prediction on Mobile Videos: A Fixation Mapping-Based Dataset and A Transformer Approach, [paper](https://ieeexplore.ieee.org/abstract/document/10360106), [github](https://github.com/wenshijie110/MVFormer)
 * [2024] Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks, [paper](https://www.sciencedirect.com/science/article/pii/S1047320324000506)

@@ -12,6 +12,7 @@
 * [2019] Temporal Recurrences for Video Saliency Prediction, [paper](https://doras.dcu.ie/23543/1/_BMVC__Simple_vs_complex_temporal_recurrences_for_video_saliency_prediction__Copy_.pdf), [github](https://github.com/juanjo3ns/SalBCE)
 * [2019] Simple vs complex temporal recurrences for video saliency prediction, [paper](https://arxiv.org/pdf/1907.01869v4), [github](https://github.com/Linardos/SalEMA)
 * [2019] TASED-Net: Temporally-Aggregating Spatial Encoder-Decoder Network for Video Saliency Detection, [paper](https://arxiv.org/abs/1908.05786), [github](https://github.com/MichiganCOG/TASED-Net)
+* [2019] Video Saliency Prediction Using Spatiotemporal Residual Attentive Networks, [paper](https://ieeexplore.ieee.org/document/8811731?denied=), [github](https://github.com/ashleylqx/STRA-Net)
 * [2020] Unified Image and Video Saliency Modeling, [paper](https://arxiv.org/abs/2003.05477), [github](https://github.com/rdroste/unisal)
 * [2020] A Spatial-Temporal Recurrent Neural Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/9263359), [github](https://github.com/zhangkao/IIP_STRNN_Saliency)
 * [2020] 3DSal: An Efficient 3D-CNN Architecture for Video Saliency Prediction, [paper](https://www.researchgate.net/publication/340024237_3DSAL_An_Efficient_3D-CNN_Architecture_for_Video_Saliency_Prediction), [github](https://github.com/YasserDA/Saliency-3DSal)

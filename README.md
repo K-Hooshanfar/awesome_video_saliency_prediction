@@ -24,6 +24,7 @@
 * [2023] GFNet: gated fusion network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s10489-023-04861-5)
 * [2023] Transformer-Based Multi-Scale Feature Integration Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10130326), [github](https://github.com/wusonghe/TMFI-Net)
 * [2023] Multi-Scale Spatiotemporal Feature Fusion Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10269025)
+* [2023] TinyHD: Efficient Video Saliency Prediction with Heterogeneous Decoders using Hierarchical Maps Distillation, [paper](https://arxiv.org/pdf/2301.04619v1), [github](https://github.com/feiyanhu/tinyhd)
 * [2024] Transformer-based Video Saliency Prediction with High Temporal Dimension Decoding, [paper](https://arxiv.org/pdf/2401.07942)
 * [2024] SalFoM: Dynamic Saliency Prediction with Video Foundation Models, [paper](https://arxiv.org/pdf/2404.03097)
 * [2024] Transformer-based multi-level attention integration network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s11042-024-19404-4)

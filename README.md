@@ -60,7 +60,8 @@
 * [2024] Audio-Visual Saliency Prediction with Multisensory Perception and Integration, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624000581), [github](https://github.com/oraclefina/MSPI)
 * [2024] From Discrete Representation to Continuous Modeling: A Novel Audio-Visual Saliency Prediction Model With Implicit Neural Representations, [paper](https://ieeexplore.ieee.org/document/10502245)
 * [2024] DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction, [paper](https://arxiv.org/abs/2403.01226), [github](https://github.com/junwenxiong/diff_sal)
-  
+* [2024] Relevance-guided Audio Visual Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2411.11454v1)
+
 # Datasets
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](https://arxiv.org/pdf/1709.06316v3), [github](https://github.com/remega/LEDOV-eye-tracking-database)
 * [2018] Revisiting Video Saliency: A Large-scale Benchmark and a New Model, [paper](https://arxiv.org/abs/1801.07424), [github](https://github.com/wenguanwang/DHF1K)

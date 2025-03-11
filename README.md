@@ -40,6 +40,7 @@
 * [2024] Transformer-based multi-level attention integration network for video saliency prediction, [paper](https://link.springer.com/article/10.1007/s11042-024-19404-4)
 * [2024] OFF-ViNet: Optical Flow-Based Feature Warping ViNet for Video Saliency Prediction Considering Future Prediction, [paper](https://ieeexplore.ieee.org/document/10508805?denied=)
 * [2024] The Visual Saliency Transformer Goes Temporal: TempVST for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/document/10620181)
+* [2025] Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues, [paper](https://arxiv.org/pdf/2502.00397v1)
 
 # Audio–visual
 

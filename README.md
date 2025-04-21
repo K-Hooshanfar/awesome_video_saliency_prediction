@@ -63,6 +63,7 @@
 * [2024] From Discrete Representation to Continuous Modeling: A Novel Audio-Visual Saliency Prediction Model With Implicit Neural Representations, [paper](https://ieeexplore.ieee.org/document/10502245)
 * [2024] DiffSal: Joint Audio and Video Learning for Diffusion Saliency Prediction, [paper](https://arxiv.org/abs/2403.01226), [github](https://github.com/junwenxiong/diff_sal)
 * [2024] Relevance-guided Audio Visual Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2411.11454v1)
+* [2025] DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2504.10070)
 
 # Datasets
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](https://arxiv.org/pdf/1709.06316v3), [github](https://github.com/remega/LEDOV-eye-tracking-database)

@@ -43,6 +43,7 @@
 * [2025] TM2SP: A Transformer-based Multi-Level Spatiotemporal Feature Pyramid Network for Video Saliency Prediction, [paper](https://ieeexplore.ieee.org/abstract/document/10841372)
 * [2025] Hierarchical spatiotemporal Feature Interaction Network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625000010)
 * [2025] Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues, [paper](https://arxiv.org/pdf/2502.00397v1)
+* [2025] TFS-Net: Temporal first simulation network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0957417425012746?via%3Dihub)
 
 # Audio–visual
 

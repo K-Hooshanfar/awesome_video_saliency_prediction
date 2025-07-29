@@ -44,6 +44,7 @@
 * [2025] Hierarchical spatiotemporal Feature Interaction Network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625000010)
 * [2025] Minimalistic Video Saliency Prediction via Efficient Decoder & Spatio Temporal Action Cues, [paper](https://arxiv.org/pdf/2502.00397v1)
 * [2025] TFS-Net: Temporal first simulation network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0957417425012746?via%3Dihub)
+* [2025] RecSal-Net: Recursive Saliency Network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0925231225014948)
 * [2025] Combining spatio-temporal attention and multi-level feature fusion for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0262885625002665?)
 
 # Audio–visual

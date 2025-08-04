@@ -47,6 +47,7 @@
 * [2025] RecSal-Net: Recursive Saliency Network for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0925231225014948)
 * [2025] Combining spatio-temporal attention and multi-level feature fusion for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0262885625002665?)
 * [2025] PredVSD: Video saliency prediction based on conditional diffusion model, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125008664?)
+* [2025] Video saliency prediction via single feature enhancement and temporalrecurrence, [paper](https://www.sciencedirect.com/science/article/pii/S0952197625018421)
 
 # Audio–visual
 

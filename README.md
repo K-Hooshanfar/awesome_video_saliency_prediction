@@ -78,6 +78,8 @@
 * [2024] Relevance-guided Audio Visual Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2411.11454v1)
 * [2025] Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2504.14267)
 * [2025] DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2504.10070)
+* [2026] Audio-Visual Saliency Prediction Based on Joint Adversarial Learning and Co-Attention Mechanism, [paper](https://doi.org/10.1016/j.patcog.2026.113548)
+
 
 # Datasets
 * [2018] DeepVS: A Deep Learning Based Video Saliency Prediction Approach, [paper](https://arxiv.org/pdf/1709.06316v3), [github](https://github.com/remega/LEDOV-eye-tracking-database)
@@ -87,6 +89,8 @@
 * [2024] Audio-visual saliency prediction for movie viewing in immersive environments: Dataset and benchmarks, [paper](https://www.sciencedirect.com/science/article/pii/S1047320324000506)
 * [2024] Video saliency prediction for First-Person View UAV videos: Dataset and benchmark, [paper](https://www.sciencedirect.com/science/article/pii/S0925231224006477?ref=pdf_download&fr=RR-2&rr=8c7102c00ad21cc1)
 * [2024] Saliency Prediction of Sports Videos: A Large-Scale Database and a Self-Adaptive Approach, [paper](https://ieeexplore.ieee.org/abstract/document/10446481)
+* [2026] CrowdSAL: Video Saliency Dataset and Benchmark, [project](https://videoprocessing.ai/datasets/crowdsal.html), [github](https://github.com/msu-video-group/CrowdSAL)
+* [2026] NTIRE 2026 Challenge on Video Saliency Prediction Dataset, [paper](https://arxiv.org/abs/2604.14816), [github](https://github.com/msu-video-group/NTIRE26_Saliency_Prediction)
 
 
 

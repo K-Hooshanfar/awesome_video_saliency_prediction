@@ -48,6 +48,14 @@
 * [2025] Combining spatio-temporal attention and multi-level feature fusion for video saliency prediction, [paper](https://www.sciencedirect.com/science/article/pii/S0262885625002665?)
 * [2025] PredVSD: Video saliency prediction based on conditional diffusion model, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125008664?)
 * [2025] Video saliency prediction via single feature enhancement and temporalrecurrence, [paper](https://www.sciencedirect.com/science/article/pii/S0952197625018421)
+* [2026] Knowledge distillation meets video foundation models: A video saliency prediction case study, [paper](https://doi.org/10.1016/j.jvcir.2026.104706)
+* [2026] Learning long- and short-term dynamics for human attention prediction using large video models, [paper](https://doi.org/10.1016/j.cviu.2026.104740)
+* [2026] Isolating the Role of Temporal Information in Video Saliency: A Controlled Experimental Analysis, [paper](https://openaccess.thecvf.com/content/WACV2026/papers/El-Jiz_Isolating_the_Role_of_Temporal_Information_in_Video_Saliency_A_WACV_2026_paper.pdf), [github](https://github.com/peterjiz/uniformersal)
+* [2026] NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results, [paper](https://arxiv.org/abs/2604.14816), [github](https://github.com/msu-video-group/NTIRE26_Saliency_Prediction)
+* [2026] ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction, [paper](https://arxiv.org/abs/2604.08613), [github](https://github.com/iLearn-Lab/CVPRW26-ViSAGE)
+* [2026] BIAS: A Biologically Inspired Algorithm for Video Saliency Detection, [paper](https://arxiv.org/abs/2604.08858)
+* [2026] ViASNet: A Video Ad Saliency Network for Predicting Dynamic Saliency and Viewer Engagement, [paper](https://arxiv.org/abs/2605.29302)
+
 
 # Audio–visual
 

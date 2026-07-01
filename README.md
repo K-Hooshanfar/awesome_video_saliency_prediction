@@ -55,6 +55,7 @@
 * [2026] ViSAGE @ NTIRE 2026 Challenge on Video Saliency Prediction, [paper](https://arxiv.org/abs/2604.08613), [github](https://github.com/iLearn-Lab/CVPRW26-ViSAGE)
 * [2026] BIAS: A Biologically Inspired Algorithm for Video Saliency Detection, [paper](https://arxiv.org/abs/2604.08858)
 * [2026] ViASNet: A Video Ad Saliency Network for Predicting Dynamic Saliency and Viewer Engagement, [paper](https://arxiv.org/abs/2605.29302)
+* [2026] PredJSal: Video Saliency via Predictive Self-Supervised Representations, [paper](https://openaccess.thecvf.com/content/CVPR2026W/NTIRE/papers/Chaldaiopoulos_PredJSal_Video_Saliency_via_Predictive_Self-Supervised_Representations_CVPRW_2026_paper.pdf), [github](https://github.com/KChald/PredJSal)
 
 
 # Audio–visual
@@ -79,6 +80,7 @@
 * [2025] Text-Audio-Visual-conditioned Diffusion Model for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2504.14267)
 * [2025] DTFSal: Audio-Visual Dynamic Token Fusion for Video Saliency Prediction, [paper](https://arxiv.org/pdf/2504.10070)
 * [2026] Audio-Visual Saliency Prediction Based on Joint Adversarial Learning and Co-Attention Mechanism, [paper](https://doi.org/10.1016/j.patcog.2026.113548)
+* [2026] Attend to Anything: Foundation Model for Unified Human Attention Modeling, [paper](https://arxiv.org/abs/2606.03540), [github](https://github.com/wz-zhao/Attend-to-Anything)
 
 
 # Datasets
